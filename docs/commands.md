@@ -49,7 +49,7 @@ Display help message. It also shows examples of the commands.
     Options:
       -h, --help  Show help                                                       [boolean]
 
-    Seek more help at https://skygragon.github.io/leetcode-cli/commands
+    Seek more help at https://skygragon.github.io/leetcode-cli/commands dd
 
 Show help on sub command:
 
