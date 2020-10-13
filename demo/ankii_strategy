@@ -1,0 +1,5 @@
+again = 2day
+hard = 当前复习时间间隔/2
+good = 当前复习时间间隔
+easy = 当前复习时间间隔*2
+future = 180day
